@@ -1,2 +1,2 @@
-# Email 2
+Email Template
  
